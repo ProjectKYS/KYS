@@ -1,0 +1,20 @@
+X: 20
+T:The PicPhigg Liegs Donrthias 1
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+"G"eAB "Em"gfeg|"G"B3 -d2:|
+f2 e2|"G"BGC "G"GBd|"Em"e2f B2g|"Bm"fed "G"BGG "D"AAG "D7"GFD|"Em"GE(A3 B2|"G"B2G e2f|
+"G"Gga "Em"g2f|"Em"g3 "D7"B2A|"G"d3 "F"A2A|"G"BGG BGD|"Dm"DAd "G"d2B|"G7"bfg dBD|"Bm"fee "D"dBA|"G"BG "C"EDE/2"Dm"DE|
+"G"FG ABG|"D7"AG^G "D7"dB,|"G"DGA "G"dBA|"G"dgf Abg|"G"g^fg gBg|"D"afd d^cd|
+"Bm"Bef g2g|
+"D"aba "D"f3|"D"aef "G"edg|"D"agf "A7"eag|"D"dff "A"e2c "D"dcB|
+"Am"ABc =cea|
+"A"EAc "E7"BAB|"D"A3 -"D7"A2F|"D"E3 -A2:|
+P:B
+|:"A"gea bag|"D"fed d d2f|
+"B#m"bed ^fge|"C"gfe "G"def|"Em"g3 gfe|"E7"e3 "G"gddB|"E7"e^de "A"a2A "-"D"A3 "A7"BAG|"Am"A2e "D"f2f|
+"E7"ded "A"c2e|"D"fdA "G"dcB|"C"A,AG "E7"E2|"D"FD F2||:"D7"AFA "D"^A2A|
+"D"D2d "F"BA "Em"EA2||
+
